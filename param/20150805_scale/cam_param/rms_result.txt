@@ -1,0 +1,11 @@
+seq_id : 5
+corner_detect_mode : FAST
+image size : (1920, 1080)
+scale factor : 0.400000
+radius for circular sampling : 20
+
+root-mean-square for cam param 1 = 0.212413
+root-mean-square for cam param 2 = 0.116525
+root-mean-square for cam param 3 = 0.127249
+root-mean-square for cam param 4 = 0.120480
+root-mean-square for cam param 5 = 0.118795
